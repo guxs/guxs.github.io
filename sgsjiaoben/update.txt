@@ -1,5 +1,6 @@
-/最新版本/7.206/最新版本/
-/最新版本文件名/guxs三国杀脚本 V7.206.exe/最新版本文件名/
-/下载地址/https://raw.githubusercontent.com/guxs/guxs.github.io/master/sgsjiaoben/guxs_sgsjiaoben V7.206.exe/下载地址/
-/7.206版本/1/7.206版本/
+/最新版本/7.233/最新版本/
+/最新版本文件名/guxs三国杀脚本 V7.233.exe/最新版本文件名/
+/下载地址/https://raw.githubusercontent.com/guxs/guxs.github.io/master/sgsjiaoben/guxs_sgsjiaoben V7.233.exe/下载地址/
+/7.233版本/1/7.233版本/
+/7.206版本//7.206版本/
 /7.198版本//7.198版本/
