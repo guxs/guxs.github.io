@@ -1,7 +1,8 @@
-/最新版本/8.147/最新版本/
-/最新版本文件名/guxs三国杀脚本 V8.147.exe/最新版本文件名/
-/下载地址/https://raw.githubusercontent.com/guxs/guxs.github.io/master/sgsjiaoben/guxs_sgsjiaoben V8.147.exe/下载地址/
+/最新版本/8.167/最新版本/
+/最新版本文件名/guxs三国杀脚本 V8.167.exe/最新版本文件名/
+/下载地址/https://raw.githubusercontent.com/guxs/guxs.github.io/master/sgsjiaoben/guxs_sgsjiaoben V8.167.exe/下载地址/
 /8.147版本/1/8.147版本/
+/8.147版本/0/8.147版本/
 /8.144版本/0/8.144版本/
 /8.127版本/0/8.127版本/
 /7.242版本//7.242版本/
