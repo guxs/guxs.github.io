@@ -1,6 +1,7 @@
-/最新版本/8.166/最新版本/
-/最新版本文件名/guxs三国杀随机算码器 V8.166.exe/最新版本文件名/
-/下载地址/https://raw.githubusercontent.com/guxs/guxs.github.io/master/sgsjiaoben/guxs_sgssjsmq V8.166.exe/下载地址/
-/8.166版本/1/8.166版本/
+/最新版本/8.167/最新版本/
+/最新版本文件名/guxs三国杀随机算码器 V8.167.exe/最新版本文件名/
+/下载地址/https://raw.githubusercontent.com/guxs/guxs.github.io/master/sgsjiaoben/guxs_sgssjsmq V8.167.exe/下载地址/
+/8.167版本//8.167版本/
+/8.166版本//8.166版本/
 /8.100版本//8.100版本/
 /8.033版本//8.033版本/
