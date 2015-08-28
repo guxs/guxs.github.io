@@ -1,0 +1,49 @@
+﻿{
+    "intro":[
+          "effect 为可选项 不填默认为 0弹出",
+          "ani 为可选项 默认为0无动态 ，1为跳动"
+    ],
+	"data":[
+		{
+			"id":1,
+			"data":[
+				{"page":1, "step":1, "url":"movie_1_1", "x":0, "y":0},
+				{"page":1, "step":1, "url":"word_1_1", "x":102, "y":18},
+                {"page":1, "step":2, "url":"movie_1_2", "x":0, "y":438.85},
+				{"page":1, "step":2, "url":"word_1_2", "x":10, "y":444},
+				{"page":1, "step":2, "url":"word_1_3", "x":108, "y":862},
+                {"page":1, "step":3, "url":"movie_1_3", "x":334.85, "y":438.85},
+				{"page":1, "step":3, "url":"word_1_4", "x":350, "y":408},
+                {"page":1, "step":4, "url":"movie_1_4", "x":334.85, "y":731.75},
+				{"page":1, "step":4, "url":"word_1_5", "x":393, "y":658},
+                {"page":1, "step":1, "url":"movie_c", "x":380.5, "y":4, "ani":1},
+				
+                {"page":2, "step":1, "url":"movie_1_5", "x":0, "y":0},
+				{"page":2, "step":1, "url":"word_1_6", "x":12, "y":14},
+                {"page":2, "step":2, "url":"movie_1_6", "x":0, "y":347},
+				{"page":2, "step":2, "url":"word_1_7", "x":12, "y":639},
+                {"page":2, "step":3, "url":"movie_1_7", "x":356.8, "y":0},
+				{"page":2, "step":3, "url":"word_1_8", "x":428, "y":12},
+				{"page":2, "step":3, "url":"word_1_9", "x":388, "y":618},
+                {"page":2, "step":4, "url":"movie_1_8", "x":0, "y":731.75},
+				{"page":2, "step":4, "url":"word_1_10", "x":12, "y":742},
+                {"page":2, "step":1, "url":"movie_c", "x":102, "y":282, "ani":1},
+				
+				{"page":3, "step":1, "url":"movie_1_9", "x":0, "y":0},
+				{"page":3, "step":1, "url":"word_1_11", "x":10, "y":14},
+                {"page":3, "step":2, "url":"movie_1_10", "x":0, "y":344},
+				{"page":3, "step":2, "url":"word_1_12", "x":27, "y":355, "ani":1},
+				{"page":3, "step":2, "url":"word_1_12", "x":77, "y":478, "ani":1},
+				{"page":3, "step":2, "url":"word_1_12", "x":554, "y":517, "ani":1},				
+				{"page":3, "step":2, "url":"word_1_13", "x":534, "y":351},
+                {"page":3, "step":3, "url":"movie_1_11", "x":0, "y":615.75},
+				{"page":3, "step":3, "url":"word_1_14", "x":8, "y":594},
+                {"page":3, "step":4, "url":"movie_1_12", "x":420.85, "y":615.75},
+				{"page":3, "step":4, "url":"word_1_15", "x":344, "y":577},
+				{"page":3, "step":4, "url":"word_1_16", "x":352, "y":876},
+                {"page":3, "step":1, "url":"movie_c", "x":380, "y":275, "ani":1}
+			]
+		}
+		
+	]	
+}
