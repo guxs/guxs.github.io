@@ -1,5 +1,11 @@
 ﻿{	
 	"data":[
+	  {"id":21, "career":147, "skill":47, "skillLevel":10, "coin":0, "gold":20000, "intro":"小龙王子"},
+	  {"id":20, "career":142, "skill":57, "skillLevel":10, "coin":0, "gold":15000, "intro":"远古黑影3"},
+	  {"id":10, "career":141, "skill":53, "skillLevel":10, "coin":0, "gold":15000, "intro":"远古黑影2"},
+	  {"id":19, "career":140, "skill":64, "skillLevel":10, "coin":0, "gold":15000, "intro":"远古黑影1"},
+	  {"id":17, "career":136, "skill":52, "skillLevel":10, "coin":0, "gold":10000, "intro":"暗林妖女"},
+	  {"id":16, "career":132, "skill":31, "skillLevel":10, "coin":0, "gold":10000, "intro":"狼人"},
       {"id":15, "career":139, "skill":42, "skillLevel":4, "coin":0, "gold":500, "intro":"远古的妖精，生存了数千年，中立派的它，对勇者之路战役的历史很着迷"},
       {"id":14, "career":138, "skill":61, "skillLevel":1, "coin":12000, "gold":0, "intro":"生活在梦境中的小风龙，喜欢在风里玩，常常分不清现实和梦境"},
       {"id":13, "career":121, "skill":60, "skillLevel":1, "coin":8000, "gold":0, "intro":"草原上可爱的花妖精，能在远处攻击敌人，也会会风的魔法"},
