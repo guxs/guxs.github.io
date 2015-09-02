@@ -1,0 +1,27 @@
+﻿{
+    "intro":"默认：普通伤害的effect id为0",
+	"data":[
+        {"id":0, "des":"受打击", "offsetX":27, "offsetY":30},
+		{"id":1, "des":"物理前置", "offsetX":43, "offsetY":46},
+		{"id":2, "des":"MISS", "offsetX":27, "offsetY":21},
+		{"id":3, "des":"法术前置", "offsetX":25, "offsetY":74},
+		{"id":4, "des":"治疗前置", "offsetX":24, "offsetY":77},
+		{"id":5, "des":"暴击", "offsetX":70, "offsetY":66},
+		{"id":6, "des":"防御", "offsetX":30, "offsetY":37},
+		
+        {"id":11, "des":"打击效果-绿色", "offsetX":50, "offsetY":54},
+		{"id":12, "des":"打击效果-红色", "offsetX":55, "offsetY":56},
+		{"id":13, "des":"打击效果-破防", "offsetX":43, "offsetY":49},
+		{"id":14, "des":"打击效果-特殊", "offsetX":81, "offsetY":77},
+		
+		{"id":21, "des":"陨石魔法", "offsetX":57, "offsetY":203},
+		{"id":22, "des":"冰冻魔法", "offsetX":62, "offsetY":86},
+		{"id":23, "des":"火焰魔法", "offsetX":58, "offsetY":58},
+		{"id":24, "des":"风刃魔法", "offsetX":102, "offsetY":86},
+		{"id":25, "des":"加血", "offsetX":53, "offsetY":85},
+		{"id":26, "des":"复活", "offsetX":75, "offsetY":83},
+		{"id":27, "des":"恢复", "offsetX":68, "offsetY":71},
+		{"id":28, "des":"加buff", "offsetX":53, "offsetY":73},
+		{"id":29, "des":"加buff2", "offsetX":56, "offsetY":90}
+	]
+}
