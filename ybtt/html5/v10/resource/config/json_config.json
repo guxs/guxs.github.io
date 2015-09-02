@@ -1,9 +1,0 @@
-﻿{
-  "PlayerBackUpTime":5,
-  "EnBackUpTime":7,
-  "RecruitReFreshPrice1":300,
-  "RecruitReFreshPrice2":20,
-  "CareerNameArr":["游民","矿工","木工","药师","工匠","剑士","弓手","法师","骑士","牧师","忍者","巫师"],
-  "backUpMaxLevel":30,
-  "chatCost":10
-}
