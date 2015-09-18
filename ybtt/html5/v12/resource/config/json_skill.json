@@ -1,0 +1,55 @@
+﻿{
+    "intro":[
+      "type 0 为生产技能 1 为战斗被动技能 2为战斗主动技能(攻击类) 3为战斗主动技能(非攻击类)",
+      "attIsPecentMode 百分比攻击, hpDead 百分之多少hp以内可直接瞬杀",
+      "hurtTransModulus 百分之多少的伤害转移到我方HP最多的队友身上, 并且自身hide += 2*level",
+      "atkRestoreModulus 攻击造成伤害百分比回血",
+      "pre 技能前置动画 after 被击中者的动画   atkMode 通过攻击动作触发的技能 默认false",
+      "atkAll 为攻击目标范围 默认0为1个 2为3个 3为全体"
+    ],
+	"data":[
+		{"id":1, "type":0, "careerType":1, "cost":100, "name":"挖掘"},
+        {"id":2, "type":0, "careerType":2, "cost":100, "name":"伐木"},
+        {"id":3, "type":0, "careerType":3, "cost":150, "name":"药剂制作"},
+		{"id":4, "type":0, "careerType":4, "cost":250, "name":"武器制作"},
+		{"id":5, "type":0, "careerType":4, "cost":250, "name":"防具制作"},
+
+        {"id":11, "type":1, "careerType":8, "cost":100, "name":"生命强化", "hp":0.05},
+        {"id":12, "type":1, "careerType":8, "cost":150, "name":"防御强化", "def":0.1},
+        {"id":13, "type":1, "careerType":8, "cost":1000, "name":"法术强化", "magic":15},
+        {"id":14, "type":1, "careerType":6, "cost":100, "name":"伤害转移", "hurtTransModulus":5},
+        {"id":15, "type":1, "careerType":12, "cost":3000, "name":"元气回复术"},
+
+        {"id":31, "type":2, "careerType":5, "cost":100, "name":"超重击", "pre":1, "after":12, "atkMode":true, "cool":5, "modulus":0.2},
+        {"id":32, "type":2, "careerType":10, "cost":3000, "name":"致命袭心", "pre":1, "after":13, "atkMode":true, "cool":10, "modulus":5, "atkIsPecentMode":true},
+        {"id":33, "type":2, "careerType":10, "cost":500, "name":"瞬杀", "pre":1, "after":14, "atkMode":true, "cool":10, "hpDead":4},
+        {"id":34, "type":2, "careerType":5, "cost":2000, "name":"吸血狂热", "pre":1, "after":11, "atkMode":true, "cool":2, "atkRestoreModulus":8},
+        {"id":35, "type":2, "careerType":6, "cost":800, "name":"多重箭矢", "pre":1, "cool":10, "atkMode":true, "modulus":0.06},
+
+        {"id":41, "type":3, "careerType":9, "cost":500, "name":"恢复术", "pre":4, "after":25, "cool":7, "hp":4},
+        {"id":42, "type":3, "careerType":9, "cost":3000, "name":"强力恢复术", "pre":4, "after":25, "cool":12, "atkAll":1, "hp":3},
+        {"id":43, "type":3, "careerType":9, "cost":100, "name":"超级恢复术", "pre":4, "after":25, "cool":16, "atkAll":2, "hp":3},
+        {"id":44, "type":3, "careerType":9, "cost":3000, "name":"复活术", "pre":4, "after":26, "cool":25, "hp":8},
+        {"id":45, "type":3, "careerType":11, "cost":5000, "name":"圣盾祈祷阵", "pre":4, "after":28, "cool":20, "atkAll":2},
+        {"id":46, "type":3, "careerType":11, "cost":100, "name":"战锤祈祷阵", "pre":4, "after":28, "cool":20, "atkAll":2},
+        {"id":47, "type":3, "careerType":11, "cost":5000, "name":"天使的庇护", "pre":4, "after":29, "cool":10},
+
+
+        {"id":51, "type":2, "careerType":7, "cost":150, "name":"陨石术", "pre":3, "after":21, "cool":5, "attr":1, "modulus":2.3},
+        {"id":52, "type":2, "careerType":7, "cost":2000, "name":"强力陨石术", "pre":3, "after":21, "cool":7, "attr":1, "modulus":1.6, "atkAll":1},
+        {"id":53, "type":2, "careerType":7, "cost":5000, "name":"超级陨石术", "pre":3, "after":21, "cool":8, "attr":1, "modulus":1.3, "atkAll":2},
+        {"id":54, "type":2, "careerType":7, "cost":150, "name":"冰冻术", "pre":3, "after":22, "cool":5, "attr":2, "modulus":2.3},
+        {"id":55, "type":2, "careerType":7, "cost":2000, "name":"强力冰冻术", "pre":3, "after":22, "cool":7, "attr":2, "modulus":1.6, "atkAll":1},
+        {"id":56, "type":2, "careerType":7, "cost":5000, "name":"超级冰冻术", "pre":3, "after":22, "cool":8, "attr":2, "modulus":1.3, "atkAll":2},
+        {"id":57, "type":2, "careerType":7, "cost":150, "name":"火球术", "pre":3, "after":23, "cool":5, "attr":3, "modulus":2.3},
+        {"id":58, "type":2, "careerType":7, "cost":2000, "name":"强力火球术", "pre":3, "after":23, "cool":7, "attr":3, "modulus":1.6, "atkAll":1},
+        {"id":59, "type":2, "careerType":7, "cost":5000, "name":"超级火球术", "pre":3, "after":23, "cool":8, "attr":3, "modulus":1.3, "atkAll":2},
+        {"id":60, "type":2, "careerType":7, "cost":150, "name":"风刃术", "pre":3, "after":24, "cool":5, "attr":4, "modulus":2.3},
+        {"id":61, "type":2, "careerType":7, "cost":2000, "name":"强力风刃术", "pre":3, "after":24, "cool":7, "attr":4, "modulus":1.6, "atkAll":1},
+        {"id":62, "type":2, "careerType":7, "cost":5000, "name":"超级风刃术", "pre":3, "after":24, "cool":8, "attr":4, "modulus":1.3, "atkAll":2},
+
+        {"id":63, "type":2, "careerType":99, "cost":100, "name":"死神的咆哮", "pre":3, "after":0, "cool":12, "attr":5, "modulus":1, "atkAll":2},
+        {"id":64, "type":2, "careerType":98, "cost":100, "name":"百鬼斩", "pre":1, "after":12, "atkMode":true, "cool":15, "atkAll":2, "modulus":0.05}
+
+	]
+}

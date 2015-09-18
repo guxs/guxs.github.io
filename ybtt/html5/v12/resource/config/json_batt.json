@@ -1,0 +1,150 @@
+﻿{	
+	"data":[
+      {"id":1, "enArr":[1,3,4], "backUpEnArr":[5,6,7,8], "rewardArr":[1,1,2]},
+      {"id":1001, "enArr":[1], "rewardArr":[1]},
+      {"id":1002, "enArr":[1,2], "rewardArr":[1]},
+      {"id":1003, "enArr":[3,3], "rewardArr":[1]},
+      {"id":1004, "enArr":[3,4], "rewardArr":[1]},
+      {"id":125, "enArr":[5,3,3], "rewardArr":[1]},
+      {"id":1005, "enArr":[6,6], "rewardArr":[1]},
+      {"id":1006, "enArr":[7,6], "rewardArr":[1]},
+      {"id":1007, "enArr":[7,8,7], "rewardArr":[1]},
+      {"id":1008, "enArr":[9,9], "rewardArr":[1]},
+      {"id":1009, "enArr":[9,10], "rewardArr":[1]},
+      {"id":159, "enArr":[11,9,10], "rewardArr":[1]},
+      {"id":1010, "enArr":[9,9], "rewardArr":[1]},
+      {"id":1011, "enArr":[9,10], "rewardArr":[1]},
+      {"id":1012, "enArr":[10,12], "rewardArr":[1]},
+      {"id":1013, "enArr":[13,13], "rewardArr":[1]},
+      {"id":1014, "enArr":[14,14], "rewardArr":[1]},
+
+      {"id":1015, "enArr":[14,15,14], "rewardArr":[2]},
+      {"id":1016, "enArr":[14,15,15], "rewardArr":[2]},
+      {"id":1017, "enArr":[14,15,16], "rewardArr":[2]},
+      {"id":1018, "enArr":[16,15,16], "rewardArr":[2]},
+      {"id":1019, "enArr":[17,15,16], "rewardArr":[2]},
+      {"id":1020, "enArr":[17,16,16], "rewardArr":[2]},
+      {"id":1021, "enArr":[17,17,18], "rewardArr":[2]},
+      {"id":1022, "enArr":[18,18,19], "rewardArr":[2]},
+
+      {"id":1023, "enArr":[14,14], "rewardArr":[1]},
+      {"id":1024, "enArr":[14,13,14], "rewardArr":[1]},
+      {"id":1025, "enArr":[20,20,14], "rewardArr":[1]},
+      {"id":1026, "enArr":[20,20,21], "rewardArr":[1]},
+
+      {"id":1027, "enArr":[21,22,22], "rewardArr":[2]},
+      {"id":1028, "enArr":[21,22,23], "rewardArr":[2]},
+      {"id":1029, "enArr":[21,23,23,21], "rewardArr":[2]},
+      {"id":1030, "enArr":[23,23,23,21], "rewardArr":[2]},
+      {"id":1031, "enArr":[23,23,23,24], "rewardArr":[2]},
+
+      {"id":1032, "enArr":[26,26,23], "rewardArr":[2]},
+      {"id":1033, "enArr":[26,26,27,23], "rewardArr":[2]},
+      {"id":1034, "enArr":[27,27,27,23], "rewardArr":[2]},
+      {"id":1035, "enArr":[27,27,27,23,23], "rewardArr":[2]},
+      {"id":1036, "enArr":[27,27,27,28,23,23], "rewardArr":[2]},
+
+      {"id":1037, "enArr":[37,37,37], "rewardArr":[2]},
+      {"id":1038, "enArr":[38,38,38], "rewardArr":[2]},
+      {"id":1039, "enArr":[43,42,43,42], "backUpEnArr":[42], "rewardArr":[2,2,2,2,2,2,2,2,2,6]},
+      {"id":1040, "enArr":[44,45,44,45,44], "backUpEnArr":[45], "rewardArr":[2,2,2,2,2,2,2,2,6]},
+      {"id":1041, "enArr":[47,47,47,46,46,46], "backUpEnArr":[46,46], "rewardArr":[2,2,2,3,3,6]},
+      {"id":1042, "enArr":[39,41,39,40,40,40], "rewardArr":[2]},
+      {"id":1043, "enArr":[50,50,50,49,48,49], "backUpEnArr":[49,49,49], "rewardArr":[3]},
+
+      {"id":101, "enArr":[29,29,29,30,30,30], "rewardArr":[1,1,1,511]},
+      {"id":102, "enArr":[31,31,31,32,32,32], "rewardArr":[1,1,1,511]},
+      {"id":103, "enArr":[33,33,33,34,34,34], "backUpEnArr":[29,30], "rewardArr":[1,511]},
+      {"id":104, "enArr":[35,35,35,36,36,36], "backUpEnArr":[31,32], "rewardArr":[1,511]},
+
+      {"id":1044, "enArr":[51,51,51,52,52], "rewardArr":[2], "intro":"草原1-5"},
+      {"id":1045, "enArr":[53,53,53,54,54], "rewardArr":[2]},
+      {"id":1046, "enArr":[55,55,55,56,56], "rewardArr":[2]},
+      {"id":1047, "enArr":[57,57,57,58,58,58], "rewardArr":[2]},
+      {"id":1048, "enArr":[57,57,57,58,58,58], "rewardArr":[2]},
+
+      {"id":1049, "enArr":[59,59,59,60,60,60], "backUpEnArr":[59,59], "rewardArr":[2,2,2,2,3], "intro":"忍洞1-3"},
+      {"id":1050, "enArr":[61,61,61,62,62,62], "backUpEnArr":[60,60], "rewardArr":[2,2,2,3]},
+      {"id":1051, "enArr":[63,63,63,64,65,64], "backUpEnArr":[64,63,64], "rewardArr":[2,2,2,3]},
+
+      {"id":1052, "enArr":[66,70,66,69,68,69], "rewardArr":[2,2,2,2,3], "intro":"杰克 皮耶"},
+      {"id":1053, "enArr":[66,70,66,67,71,68], "backUpEnArr":[69,67,69], "rewardArr":[3]},
+
+      {"id":1054, "enArr":[72,72,72,72,72,72], "backUpEnArr":[72,72,72], "rewardArr":[2,2,2,2,3], "intro":"风洞1-3"},
+      {"id":1055, "enArr":[73,73,73,73,73,73], "backUpEnArr":[73,73,73], "rewardArr":[3], "intro":"风洞矿区"},
+      {"id":1056, "enArr":[73,74,73,73,73,73], "backUpEnArr":[73,73,73], "rewardArr":[4], "intro":"风洞狼人"},
+
+      {"id":1057, "enArr":[76,75,76,75,76,75], "rewardArr":[2,2,2,2,3], "intro":"暗林1-5"},
+      {"id":1058, "enArr":[76,76,76,75,75,75], "rewardArr":[2,2,2,2,3]},
+      {"id":1059, "enArr":[77,77,77,78,78,78], "backUpEnArr":[77,77], "rewardArr":[2,2,2,3,3]},
+      {"id":1060, "enArr":[80,80,80,79,79,79], "backUpEnArr":[78,79], "rewardArr":[2,2,2,3,3]},
+      {"id":1061, "enArr":[82,82,82,81,81,81], "backUpEnArr":[82,81,82], "rewardArr":[2,2,3,3]},
+      {"id":1062, "enArr":[82,82,82,81,83,81], "backUpEnArr":[81,81,81], "rewardArr":[3], "intro":"刀锋"},
+      {"id":1063, "enArr":[82,82,82,83,84,81], "backUpEnArr":[82,82,82], "rewardArr":[3], "intro":"暗林妖女"},
+
+      {"id":1064, "enArr":[85,85,85,86,86,86], "rewardArr":[2], "intro":"港口外草原3-1"},
+      {"id":1065, "enArr":[88,88,88,87,87,87], "rewardArr":[2]},
+      {"id":1066, "enArr":[89,90,89,90,89,90], "rewardArr":[2]},
+
+      {"id":1067, "enArr":[91,91,91,92], "backUpEnArr":[91,91,91], "rewardArr":[3,4], "intro":"黑衣人de猿人怪"},
+
+      {"id":1068, "enArr":[93,93,93,94], "backUpEnArr":[93,94], "rewardArr":[3], "intro":"梦境1-3"},
+      {"id":1069, "enArr":[95,95,95,96,96], "backUpEnArr":[95,96], "rewardArr":[3]},
+      {"id":1070, "enArr":[97,97,97,98,98], "backUpEnArr":[97,98], "rewardArr":[3]},
+      {"id":1071, "enArr":[97,97,97,98,99,98], "backUpEnArr":[98,98,98], "rewardArr":[3,4], "intro":"梦魔boss"},
+      {"id":1072, "enArr":[99,100], "rewardArr":[3,4], "intro":"远古黑影1"},
+      {"id":1073, "enArr":[99,101], "rewardArr":[3,4], "intro":"远古黑影2"},
+      {"id":1074, "enArr":[99,102], "rewardArr":[3,4], "intro":"远古黑影3"},
+
+      {"id":1075, "enArr":[1], "rewardArr":[1], "intro":"新手教室"},
+	  
+	  {"id":1076, "enArr":[103,104,103,103,104,103], "rewardArr":[2], "intro":"岸边1-2"},
+      {"id":1077, "enArr":[105,105,105,106,106,106], "rewardArr":[2]},
+	  
+	  {"id":1078, "enArr":[107,107,108,108,108,107], "rewardArr":[2], "intro":"沙漠1-4"},
+      {"id":1079, "enArr":[110,110,110,109,109,109], "rewardArr":[2]},
+	  {"id":1080, "enArr":[111,112,111,112,112,112], "rewardArr":[2]},
+	  {"id":1081, "enArr":[113,113,113,114,114,114], "rewardArr":[2]},
+	  
+	  {"id":1082, "enArr":[115,116,115,116,115,116], "rewardArr":[2], "intro":"巫洞1-5"},
+	  {"id":1083, "enArr":[117,118,117,117,118,117], "rewardArr":[2,2,2,3,3]},
+	  {"id":1084, "enArr":[119,120,120,120,120,119], "backUpEnArr":[120], "rewardArr":[2,2,2,3,3]},
+	  {"id":1085, "enArr":[120,120,119,120,119,119], "backUpEnArr":[119], "rewardArr":[2,2,2,3,3]},
+	  {"id":1086, "enArr":[121,121,121,122,122,122], "backUpEnArr":[121], "rewardArr":[2,2,3,3]},
+	  
+	  {"id":1087, "enArr":[123,124,124,123,125,123], "backUpEnArr":[124,123,123], "rewardArr":[3,4], "intro":"小龙王子boss"},
+
+      {"id":1088, "enArr":[126,126,126], "backUpEnArr":[126,126,126], "rewardArr":[2,3], "intro":"武师挑战"},
+
+      {"id":1089, "enArr":[127,128,127,128,127,128], "rewardArr":[2,3], "intro":"岩洞1-5"},
+      {"id":1090, "enArr":[128,128,127,127,127,128], "backUpEnArr":[127,128], "rewardArr":[2,3]},
+      {"id":1091, "enArr":[129,129,129,130,130,130], "rewardArr":[2,3]},
+      {"id":1092, "enArr":[130,129,129,129,129,130], "backUpEnArr":[130,129], "rewardArr":[2,3]},
+      {"id":1093, "enArr":[131,131,131,132,132,132], "backUpEnArr":[132,132], "rewardArr":[2,3]},
+
+      {"id":1094, "enArr":[134,136,134,133,137,133], "backUpEnArr":[135,135,135], "rewardArr":[3], "intro":"石头人首领"},
+
+      {"id":1095, "enArr":[138,138,138,140,140,140], "rewardArr":[3], "intro":"神塔1-6"},
+      {"id":1096, "enArr":[138,138,138,139,139,139], "rewardArr":[3]},
+      {"id":1097, "enArr":[138,138,138,139,140,139], "backUpEnArr":[139,140], "rewardArr":[3]},
+      {"id":1098, "enArr":[138,138,138,140,139,140], "backUpEnArr":[140,140], "rewardArr":[3]},
+      {"id":1099, "enArr":[141,141,141,143,143,143], "backUpEnArr":[142,142], "rewardArr":[3]},
+      {"id":1100, "enArr":[141,141,141,143,159,144], "backUpEnArr":[144,143,142], "rewardArr":[3]},
+
+      {"id":1101, "enArr":[141,141,141,142,144,142], "backUpEnArr":[143,143], "rewardArr":[3], "intro":"神塔7-12"},
+      {"id":1102, "enArr":[141,141,141,142,144,142], "backUpEnArr":[143,143,142], "rewardArr":[3]},
+      {"id":1103, "enArr":[145,145,145,146,146,147], "backUpEnArr":[148,146], "rewardArr":[3]},
+      {"id":1104, "enArr":[145,145,145,147,148,147], "backUpEnArr":[146,146], "rewardArr":[3]},
+      {"id":1105, "enArr":[145,145,145,148,146,148], "backUpEnArr":[146,147,147], "rewardArr":[3]},
+      {"id":1106, "enArr":[146,145,145,148,158,146], "backUpEnArr":[147,146,148], "rewardArr":[3]},
+
+      {"id":1107, "enArr":[149,149,149,150,151,152], "backUpEnArr":[150,151], "rewardArr":[3], "intro":"神塔13-18"},
+      {"id":1108, "enArr":[149,149,149,151,152,151], "backUpEnArr":[152,152], "rewardArr":[3]},
+      {"id":1109, "enArr":[150,149,149,152,151,151], "backUpEnArr":[150,151,150], "rewardArr":[3]},
+      {"id":1110, "enArr":[153,149,153,154,156,157], "backUpEnArr":[155,154,156], "rewardArr":[3]},
+      {"id":1111, "enArr":[149,155,153,156,157,154], "backUpEnArr":[153,157,155], "rewardArr":[3]},
+      {"id":1112, "enArr":[155,149,149,161,160,157], "backUpEnArr":[154,156,155], "rewardArr":[3]}
+
+
+	]
+}
