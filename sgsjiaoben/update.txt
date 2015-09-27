@@ -1,7 +1,8 @@
-/最新版本/9.262/最新版本/
-/最新版本文件名/guxs三国杀脚本 V9.262.exe/最新版本文件名/
-/下载地址/https://raw.githubusercontent.com/guxs/guxs.github.io/master/sgsjiaoben/guxs_sgsjiaoben V9.262.exe/下载地址/
-/9.262版本/1/9.262版本/
+/最新版本/9.272/最新版本/
+/最新版本文件名/guxs三国杀脚本 V9.272.exe/最新版本文件名/
+/下载地址/https://raw.githubusercontent.com/guxs/guxs.github.io/master/sgsjiaoben/guxs_sgsjiaoben V9.272.exe/下载地址/
+/9.272版本/1/9.272版本/
+/9.262版本//9.262版本/
 /9.115版本//9.115版本/
 /9.055版本//9.055版本/
 /8.167版本//8.167版本/
