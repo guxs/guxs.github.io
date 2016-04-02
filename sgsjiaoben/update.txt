@@ -1,7 +1,8 @@
-/最新版本/603.280/最新版本/
-/最新版本文件名/guxs三国杀脚本 V603.280.exe/最新版本文件名/
-/下载地址/https://raw.githubusercontent.com/guxs/guxs.github.io/master/sgsjiaoben/guxs_sgsjiaoben V603.280.exe/下载地址/
-/603.280版本/1/603.280版本/
+/最新版本/604.026/最新版本/
+/最新版本文件名/guxs三国杀脚本 V604.026.exe/最新版本文件名/
+/下载地址/https://raw.githubusercontent.com/guxs/guxs.github.io/master/sgsjiaoben/guxs_sgsjiaoben V604.026.exe/下载地址/
+/604.026版本/1/604.026版本/
+/603.280版本/0/603.280版本/
 /601.233版本/0/601.233版本/
 /12.100版本//12.100版本/
 /10.022版本//10.022版本/
